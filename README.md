@@ -1,5 +1,5 @@
 # VBA-Challenge
-The provided VBA script, CalculateYearlyChangePercentageAndTotalVolume, processes each stock's data, calculates the required values, and populates them in the specified columns of the Excel sheet.
+The provided VBA script, Stockdata, processes each stock's data, calculates the required values, and populates them in the specified columns of the Excel sheet.
 Purpose:
 Calculates the yearly change in stock price.
 Computes the percentage change in stock price over the year.
